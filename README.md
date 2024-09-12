@@ -23,5 +23,5 @@
 🐙 GitHub: @ThePromptNinjaneer - Code repositories and open-source projects.
 "Code is like a silent ninja, its impact is felt long after it's been executed."
 
-[![Tango's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangopapatime&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave)
+[![Tango's GitHub stats](https://github-readme-stats.vercel.app/api?username=thepromptninjaneer&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepromptninjaneer&layout=compact&theme=synthwave)
